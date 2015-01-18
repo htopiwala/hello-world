@@ -1,2 +1,4 @@
 # hello-world
-Hello World is the first repository made in Git. As a matter of fact it is the most common term used in programming languages to demonstrate the first program written in the language. 
+Hi Humans, 
+
+Hubot Here, I like Node.js and Coffeescript (that's what I am made of!). I've had tacos on the moon and find them far superior than the tacos on the Earth
